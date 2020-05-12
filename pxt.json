@@ -1,5 +1,6 @@
 {
     "name": "Chapter 6 Tag You Are It",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
